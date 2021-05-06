@@ -63,6 +63,5 @@ git push origin [브랜치명]
 
 ## PullRequest
 * Pull Request는 코드리뷰 요청을 보낼 때 사용
-
 ### 1. 자신이 코드를 작성한 원격 저장소의 브랜치에서 Compare & pull request 버튼을 통해 메세지와 함께 요청을 보낸다.
 
