@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("=========[코드 추가 시작]=========");
 		System.out.println("=========[코드 추가    끝]=========");
 		System.out.println("2. 코드 추가 후 다시 Pull Request를 보내십시오.");
+		System.out.println("test");
 	}
 
 }
